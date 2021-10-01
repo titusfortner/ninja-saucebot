@@ -34,8 +34,8 @@ Navigate to "https://www.saucedemo.com"
 
 #### Without the Extension
 
-![original screenshot](../resources/firefox/saucedemo-original.png)
+![original screenshot](saucedemo-original.png)
 
 #### With the Extension:
 
-![ninja screenshot](../resources/firefox/saucedemo-ninja.png)
+![ninja screenshot](saucedemo-ninja.png)

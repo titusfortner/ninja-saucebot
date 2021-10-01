@@ -18,8 +18,8 @@ Navigate to "https://www.saucedemo.com"
 
 #### Without the Extension
 
-![original screenshot](../resources/chrome/saucedemo-original.png)
+![original screenshot](saucedemo-original.png)
 
 #### With the Extension:
 
-![ninja screenshot](../resources/chrome/saucedemo-ninja.png)
+![ninja screenshot](saucedemo-ninja.png)
