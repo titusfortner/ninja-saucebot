@@ -1,4 +1,4 @@
-/firefox/web-ext-artifacts/
-/firefox/.web-extension-id
+/firefox/ninja-saucebot/web-ext-artifacts/*
+/firefox/ninja-saucebot/.web-extension-id
 /chrome/ninja-saucebot.crx
 /chrome/ninja-saucebot.pem

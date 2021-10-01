@@ -1,6 +1,6 @@
 {
-  "description": "Substitutes Image with Sauce Ninja",
-  "name": "Sauce Ninja",
+  "description": "Substitutes Default Saucebot Image with Ninja Saucebot",
+  "name": "Ninja-Saucebot",
   "version": "1.0",
   "manifest_version": 2,
   "permissions": ["activeTab"],
