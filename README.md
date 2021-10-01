@@ -4,8 +4,8 @@ A very basic Chrome extension and Firefox Add-on for demo purposes on Sauce Labs
 
 ## Usage
 
-* Chrome Extension
-* Firefox Add-On
+* [Chrome Extension](chrome/README.md)
+* [Firefox Add-On](firefox/README.md)
 
 ## Contributing
 
@@ -14,4 +14,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our process for su
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-

@@ -1,0 +1,17 @@
+{
+  "name": "Sauce Ninja",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "web_accessible_resources": [{
+    "resources": ["/images/*.png"],
+    "matches": ["http://*/*", "https://*/*"]
+  }],
+  "content_scripts": [
+    {
+      "matches": ["https://www.saucedemo.com/"],
+      "css": ["replacement.css"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}

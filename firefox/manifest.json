@@ -1,0 +1,14 @@
+{
+  "description": "Substitutes Image with Sauce Ninja",
+  "name": "Sauce Ninja",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.saucedemo.com/"],
+      "css": ["replacement.css"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
